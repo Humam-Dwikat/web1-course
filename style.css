@@ -18,3 +18,14 @@ li a{
 p{
     color:white;
 }
+table ,tr,th,td{
+    border: 3px solid whitesmoke;
+    border-collapse: collapse;
+    width: 60%;
+    
+    color: cornflowerblue;
+    text-align: center;
+}
+.dayy{
+    width: 100%;
+}
